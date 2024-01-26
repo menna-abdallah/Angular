@@ -1,0 +1,6 @@
+#aboutme {
+    height: auto;
+}
+#aboutme > a {
+    text-decoration: none;
+}
